@@ -25,9 +25,9 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](#).
 
-## Security Vulnerabilities
+## Vulnerabilities
 
-If you discover a security vulnerability within this code, please send contact me [www.abaeakiligithub.io](www.abaeakiligithub.io). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this code, please [Contact Me](https://abaeakiligithub.io). All vulnerabilities will be promptly addressed.
 
 ## License
 
