@@ -1,4 +1,4 @@
-##AAA Platforms
+## AAA Platforms
 
 <p align="center"><img src="/logo_transparent.png" width="400"></p>
 
